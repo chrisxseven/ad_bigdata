@@ -2,7 +2,7 @@
 # Docente: Prof. Mentor Cloves Rocha
 
 # Discentes:
-...
+...Christian David
 ...
 
 # Sugestão de Hackaton:
